@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaChauhan10363/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AdityaChauhan10363/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AdityaChauhan10363/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdityaChauhan10363/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaChauhan10363/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaChauhan10363/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/AdityaChauhan10363/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/AdityaChauhan10363/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaChauhan10363/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AdityaChauhan10363/DSA/tree/master/0242-valid-anagram) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AdityaChauhan10363/DSA/tree/master/0278-first-bad-version) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdityaChauhan10363/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
