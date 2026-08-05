@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AdityaChauhan10363/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AdityaChauhan10363/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/AdityaChauhan10363/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/AdityaChauhan10363/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaChauhan10363/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaChauhan10363/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AdityaChauhan10363/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
